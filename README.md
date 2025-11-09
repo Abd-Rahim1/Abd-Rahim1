@@ -20,7 +20,9 @@ A **multi-model deep learning system** detecting, classifying, and segmenting ca
 • Currently designing a mobile app for real-time damage detection  
 
 📦 **Tech Stack:**  
-`Python` • `PyTorch` • `YOLO` • `EfficientNet` • `Detectron2` • `DVC` • `Git` • `CI/CD`
+`Python` • `PyTorch` • `YOLO` • `EfficientNet` • `Detectron2` • `DVC` • `Git` • `CI/CD`  
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Car%20Damage%20Detection-blue?style=for-the-badge&logo=github)](https://github.com/Abd-Rahim1/Car-Damage-Detection)
 
 ---
 
@@ -33,7 +35,9 @@ Computer vision model for detecting and labeling trouser keypoints using **DeepF
 • Optimized dataset quality for model readiness  
 
 📦 **Tech Stack:**  
-`Python` • `OpenCV` • `PyTorch` • `NumPy` • `Matplotlib` • `DeepFashion2`
+`Python` • `OpenCV` • `PyTorch` • `NumPy` • `Matplotlib` • `DeepFashion2`  
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Trouser%20Keypoint%20Detection-green?style=for-the-badge&logo=github)](https://github.com/Abd-Rahim1/Trouser-Keypoint-Detection-System)
 
 ---
 
@@ -53,7 +57,6 @@ Computer vision model for detecting and labeling trouser keypoints using **DeepF
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Rahim1&layout=compact&theme=tokyonight" />
   <br>
   <img height="50em" src="https://streak-stats.demolab.com?user=Abd-Rahim1&theme=tokyonight" />
-  <img height="50em" src="https://komarev.com/ghpvc/?username=Abd-Rahim1&style=flat-square&color=blue" />
 </p>
 
 ---
