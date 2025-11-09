@@ -1,8 +1,8 @@
-<!-- Two-column header: info left, GIF right -->
-<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+<!-- Header: text left, GIF right -->
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 20px; max-width: 100%;">
 
-  <!-- Left: Text -->
-  <div style="flex: 1; min-width: 300px; padding-right: 20px;">
+  <!-- Left column: Text -->
+  <div style="flex: 2; min-width: 250px;">
     <h1>👋 Hi, I'm Abd Rahim Mojbani</h1>
     <p>
       🎓 <b>Bachelor’s Student in Software Engineering & Artificial Intelligence</b><br>
@@ -11,15 +11,13 @@
     </p>
   </div>
 
-  <!-- Right: GIF matching left text height -->
-  <div style="flex: 1; min-width: 200px; display: flex; justify-content: center; align-items: flex-start;">
+  <!-- Right column: GIF -->
+  <div style="flex: 1; min-width: 150px; display: flex; justify-content: center;">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-         style="height: 100%; max-height: 200px; width: auto; object-fit: cover; border-radius:10px;" />
+         style="width: 100%; max-width: 200px; height: auto; object-fit: cover; border-radius:10px;" />
   </div>
 
 </div>
-
----
 
 ### 🚀 Featured Projects
 
