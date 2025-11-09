@@ -1,23 +1,23 @@
-<table width="100%">
-  <tr>
-    <!-- Left column: Text -->
-    <td valign="top" width="60%">
-      <h1>👋 Hi, I'm Abd Rahim Mojbani</h1>
-      <p>
-        🎓 <b>Bachelor’s Student in Software Engineering & Artificial Intelligence</b><br>
-        💡 Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>MLOps</b><br>
-        🌍 Based in Tunisia | 🚀 Always exploring new AI technologies
-      </p>
-    </td>
+<div align="center">
 
-    <!-- Right column: Image -->
-    <td valign="top" width="40%">
-      <div align="center">
-        <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-      </div>
-    </td>
-  </tr>
+<table>
+<tr>
+<td align="left" width="60%">
+<h1>👋 Hi, I'm Abd Rahim Mojbani</h1>
+<p>
+🎓 <b>Bachelor’s Student in Software Engineering & Artificial Intelligence</b><br>
+💡 Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>MLOps</b><br>
+🌍 Based in Tunisia | 🚀 Always exploring new AI technologies
+</p>
+</td>
+
+<td align="center" width="40%">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150"/>
+</td>
+</tr>
 </table>
+
+</div>
 
 ---
 
