@@ -1,11 +1,26 @@
 <p>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="150" style="margin-left: 1em;"/>
-  
-  <span style="font-size: 40px; font-weight: bold;">👋 Hi, I'm Abd Rahim Mojbani</span><br>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="170" style="margin-left: 1em; border-radius: 10px;"/>
+
+  <span style="font-size: 42px; font-weight: bold;">👋 Hi, I'm Abd Rahim Mojbani</span><br>
   🎓 <b>Bachelor’s Student in Software Engineering & Artificial Intelligence</b><br>
   💡 Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>MLOps</b><br>
   🌍 Based in Tunisia | 🚀 Always exploring new AI technologies
 </p>
+
+---
+
+### 👨‍💻 About Me
+I'm a driven and curious software engineering student passionate about building intelligent systems that connect data with real-world applications.  
+I enjoy exploring the intersection of **AI**, **automation**, and **innovation**, and I'm constantly improving my skills through hands-on projects involving **deep learning**, **computer vision**, and **MLOps**.  
+
+Currently, I’m focused on:
+- 🧠 Applying **deep learning** to real-world computer vision challenges  
+- ⚙️ Implementing **MLOps pipelines** for reproducible model training  
+- 📱 Designing user-friendly interfaces for AI-powered applications  
+
+---
+
+
 
 
 ### 🚀 Featured Projects
