@@ -1,14 +1,20 @@
-<div align="center" style="width: 100%; position: relative; text-align: left;">
+<!-- Two-column header: info left, GIF right -->
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: 100%; max-height: 250px; object-fit: cover;" />
-
-  <div style="position: absolute; top: 20px; left: 20px; color: white; text-shadow: 2px 2px 4px #000000;">
+  <!-- Left: Text -->
+  <div style="flex: 1; min-width: 300px; padding-right: 20px;">
     <h1>👋 Hi, I'm Abd Rahim Mojbani</h1>
     <p>
       🎓 <b>Bachelor’s Student in Software Engineering & Artificial Intelligence</b><br>
       💡 Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>MLOps</b><br>
       🌍 Based in Tunisia | 🚀 Always exploring new AI technologies
     </p>
+  </div>
+
+  <!-- Right: GIF matching left text height -->
+  <div style="flex: 1; min-width: 200px; display: flex; justify-content: center; align-items: flex-start;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+         style="height: 100%; max-height: 200px; width: auto; object-fit: cover; border-radius:10px;" />
   </div>
 
 </div>
@@ -50,9 +56,7 @@ Computer vision model for detecting and labeling trouser keypoints using **DeepF
 
 ### 🧠 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,git,github,vscode" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,java,mysql,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,git,github,vscode,docker,linux,java,mysql,powerbi" />
 </p>
 
 ---
