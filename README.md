@@ -1,23 +1,12 @@
-<!-- Header: text left, GIF right -->
-<div style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 20px; max-width: 100%;">
+<p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="150" style="margin-left: 1em;"/>
+  
+  <span style="font-size: 40px; font-weight: bold;">👋 Hi, I'm Abd Rahim Mojbani</span><br>
+  🎓 <b>Bachelor’s Student in Software Engineering & Artificial Intelligence</b><br>
+  💡 Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>MLOps</b><br>
+  🌍 Based in Tunisia | 🚀 Always exploring new AI technologies
+</p>
 
-  <!-- Left column: Text -->
-  <div style="flex: 2; min-width: 250px;">
-    <h1>👋 Hi, I'm Abd Rahim Mojbani</h1>
-    <p>
-      🎓 <b>Bachelor’s Student in Software Engineering & Artificial Intelligence</b><br>
-      💡 Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>MLOps</b><br>
-      🌍 Based in Tunisia | 🚀 Always exploring new AI technologies
-    </p>
-  </div>
-
-  <!-- Right column: GIF -->
-  <div style="flex: 1; min-width: 150px; display: flex; justify-content: center;">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-         style="width: 100%; max-width: 200px; height: auto; object-fit: cover; border-radius:10px;" />
-  </div>
-
-</div>
 
 ### 🚀 Featured Projects
 
